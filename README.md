@@ -50,7 +50,7 @@ The results will be saved in outputs/yolov8_results/.
 ## Input
 
 <p align="center">
-  <img src="assets/Screenshot 2025-07-03 122333.png" width="700"/>
+  <img src="assets/sample/test.jpg" width="700"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ The results will be saved in outputs/yolov8_results/.
 ## output
 
 <p align="center">
-  <img src="assets/C:\Users\himan\yolov8\outputs\yolov8_results\test.jpg" width="700"/>
+  <img src="assets/outputs\yolov8_results\test.jpg" width="700"/>
 </p>
 
 
