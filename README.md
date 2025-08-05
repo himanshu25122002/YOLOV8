@@ -5,7 +5,7 @@ This project demonstrates object detection using the **YOLOv8** model from the `
 ---
 
 ## 📁 Project Structure
-
+```
 yolov8/
 ├── detect.py # Main script for object detection
 ├── sample/ # Folder containing test image(s)
@@ -14,6 +14,8 @@ yolov8/
 ├── yolov8n.pt # YOLOv8 nano model (downloaded automatically or manually)
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
+```
+
 ---
 
 ## 🛠️ Dependencies
