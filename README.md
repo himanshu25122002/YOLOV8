@@ -14,7 +14,6 @@ yolov8/
 ├── yolov8n.pt # YOLOv8 nano model (downloaded automatically or manually)
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
 ---
 
 ## 🛠️ Dependencies
