@@ -63,14 +63,16 @@ The results will be saved in outputs/yolov8_results/.
 
 ---
 
-🌍 Impact
+##🌍 Impact
+
 Object detection is a cornerstone of modern computer vision with applications across industries. This project leverages YOLOv8, one of the most efficient and accurate object detection models, to enable real-time detection of multiple objects in images, videos, or live webcam feeds.
 
 By demonstrating a lightweight, modular pipeline using YOLOv8, this project empowers developers, students, and researchers to integrate cutting-edge computer vision into their own applications — all with minimal setup.
 
 ---
 
-💼 Use Cases
+##💼 Use Cases
+
 This object detection system can be adapted for:
 
 Security & Surveillance
