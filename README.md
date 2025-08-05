@@ -65,9 +65,9 @@ The results will be saved in outputs/yolov8_results/.
 
 ## 🌍 Impact
 
-Object detection is a cornerstone of modern computer vision with applications across industries. This project leverages YOLOv8, one of the most efficient and accurate object detection models, to enable real-time detection of multiple objects in images, videos, or live webcam feeds.
+- Object detection is a cornerstone of modern computer vision with applications across industries. This project leverages YOLOv8, one of the most efficient and accurate object detection models, to enable real-time detection of multiple objects in images, videos, or live webcam feeds.
 
-By demonstrating a lightweight, modular pipeline using YOLOv8, this project empowers developers, students, and researchers to integrate cutting-edge computer vision into their own applications — all with minimal setup.
+- By demonstrating a lightweight, modular pipeline using YOLOv8, this project empowers developers, students, and researchers to integrate cutting-edge computer vision into their own applications — all with minimal setup.
 
 ---
 
@@ -75,20 +75,20 @@ By demonstrating a lightweight, modular pipeline using YOLOv8, this project empo
 
 This object detection system can be adapted for:
 
-Security & Surveillance
+- Security & Surveillance:-
 Detect intrusions, weapons, or unusual activities in real-time CCTV feeds.
 
-Retail & Inventory Monitoring
+- Retail & Inventory Monitoring:-
 Track product availability, customer footfall, or shelf status using camera feeds.
 
-Autonomous Vehicles & Traffic Monitoring
+- Autonomous Vehicles & Traffic Monitoring:-
 Identify vehicles, pedestrians, and traffic signals for smart city or autonomous car systems.
 
-Healthcare
+- Healthcare:-
 Detect medical tools in operation theaters or track patient movements.
 
-Wildlife Monitoring & Conservation
+- Wildlife Monitoring & Conservation:-
 Use drones or stationary cameras to detect animals in forests or sanctuaries.
 
-Smart Farming
+- Smart Farming:-
 Detect crops, pests, or livestock from drone or ground-level images.
